@@ -1,16 +1,8 @@
 # Reto 4
 
-A new Flutter project.
+Implementaciones adicionales y esta todo lo pedido
 
-## Getting Started
+![gps](https://raw.githubusercontent.com/mallonflowerz/reto3/master/demostracionAppreto4.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Nota
+Este reto fue hecho SOLAMENTE por Marlon Caleb Florez Duarte, los demás miembros no participaron en la solucion del reto
